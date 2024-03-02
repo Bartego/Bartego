@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bartego
 - 👀 I’m interested in python and automatization in LAN/WAN networking
-- 🌱 I’m currently learning python, flask, pandas, css, html
-- 💞️ I’m looking to collaborate on anything network related where i can contribute. I am just enthusiast who is learning how to code.
+- 🌱 I’m currently learning python, Django, pandas, css, html
+- 💞️ I’m looking to collaborate on anything network related where i can contribute
 - 📫 How to reach me: matejr@protonmail.com
 
 <!---
